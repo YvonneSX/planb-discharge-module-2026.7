@@ -1,0 +1,14 @@
+# GNU Arm Embedded build output
+Proj/build/
+Firmware/*-build.hex
+
+# IDE-generated project state and cache files
+Si/
+*.sisc
+*.SearchResults
+*.siwork
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
